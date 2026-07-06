@@ -4,6 +4,7 @@ public:
         if (n<=1)
             return n;
 
+        //recursion
         return fib(n-1) + fib(n-2);
     }
 };
