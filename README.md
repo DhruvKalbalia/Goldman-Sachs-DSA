@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
