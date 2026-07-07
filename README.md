@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
