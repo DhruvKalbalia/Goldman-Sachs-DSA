@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0706-design-hashmap](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0706-design-hashmap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
