@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0706-design-hashmap](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0706-design-hashmap](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -63,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/DhruvKalbalia/Goldman-Sachs-DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
